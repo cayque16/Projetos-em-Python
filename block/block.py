@@ -24,11 +24,22 @@ for i in range(1,65):
 # player        
 pygame.draw.rect(screen,WHITE,[0,440,80,15])
 # bola
-pygame.draw.ellipse(screen, RED, [width/2, heigth/2, 20, 20])
+bola = pygame.Rect(width//2,heigth//2,20,20)
+velocidade_x,velocidade_y = 0.1,0.1
+clock = pygame.time.Clock()
 while True:
-    for event in pygame.event.get():
-        if event.type == QUIT:
-            pygame.quit()
+    dt = clock.tick(30)
+    event = pygame.event.poll()
+
+    if event.type == pygame.QUIT:
+        break
+
+    bola.move_ip(velocidade_x*dt,velocidade_y*dt)
+
+    screen.fill(BLACK)
+
+    pygame.draw.ellipse(screen,RED,bola)
+
     pygame.display.flip()
 
 
