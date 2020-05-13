@@ -22,10 +22,10 @@ for i in range(1,65):
         y += 17  
         x = 52
 # player        
-pygame.draw.rect(screen,WHITE,[0,440,80,15])
+player = pygame.Rect(0,440,80,15)
 # bola
 bola = pygame.Rect(width//2,heigth//2,20,20)
-velocidade_x,velocidade_y = 0.1,0.1
+velocidade = [0.1,0.1]
 clock = pygame.time.Clock()
 while True:
     dt = clock.tick(30)
@@ -34,15 +34,17 @@ while True:
     if event.type == pygame.QUIT:
         break
 
-    bola.move_ip(velocidade_x*dt,velocidade_y*dt)
+    bola.move_ip(velocidade[0]*dt,velocidade[1]*dt)
+    if bola.left < 0 or bola.right > width:
+        velocidade[0] = -velocidade[0]
+    if bola.top < 0 or bola.bottom > heigth:
+        velocidade[1] = -velocidade[1]
 
     screen.fill(BLACK)
 
+    # desenha a bola
     pygame.draw.ellipse(screen,RED,bola)
+    # desenha o player
+    pygame.draw.rect(screen,WHITE,player)
 
     pygame.display.flip()
-
-
-
-# o limite do objeto na tela deve ser calculado com base
-# no seu tamanho
