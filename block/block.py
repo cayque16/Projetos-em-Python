@@ -16,6 +16,9 @@ PL_POS_Y = 440 # posicao inicial do player no eixo y
 PL_WIDTH = 80 # largura do player
 PL_HEIGTH = 15 # altura do player
 PL_MOVIMENTO = 100 # tamanho do movimento do player
+# dimensoes da bola
+BL_VELOCIDADE = 0.3
+BL_VETOR_X_Y = [BL_VELOCIDADE,BL_VELOCIDADE]
 
 pygame.init()
 width, heigth = 640, 480
@@ -36,7 +39,6 @@ for i in range(1,65):
 player = pygame.Rect(PL_POS_X,PL_POS_Y,PL_WIDTH,PL_HEIGTH)
 # bola
 bola = pygame.Rect(width//2,heigth//2,20,20)
-velocidade = [0.3,0.3]
 clock = pygame.time.Clock()
 direcao = 0
 while True:
@@ -52,12 +54,12 @@ while True:
             direcao = ESQUERDA
 
     # calcula a velocidade da bola
-    bola.move_ip(velocidade[0]*dt,velocidade[1]*dt)
+    bola.move_ip(BL_VETOR_X_Y[0]*dt,BL_VETOR_X_Y[1]*dt)
     # corrige a direcao da bola em caso de colisao com as paredes
-    if bola.left < 0 or bola.right > width:
-        velocidade[0] = -velocidade[0]
-    if bola.top < 0 or bola.bottom > heigth:
-        velocidade[1] = -velocidade[1]
+    if bola.left < 0 or bola.right > width-BL_VELOCIDADE:
+        BL_VETOR_X_Y[0] = -BL_VETOR_X_Y[0]
+    if bola.top < 0 or bola.bottom > heigth-BL_VELOCIDADE:
+        BL_VETOR_X_Y[1] = -BL_VETOR_X_Y[1]
     # testa o movimento do player
     if direcao == DIREITA:
         if (player.right + PL_MOVIMENTO) <= width:
@@ -71,7 +73,9 @@ while True:
         else:
             player.right = PL_WIDTH
         direcao = 0
-
+    # testa a colisao da bola com o player
+    # if collision(bola, player):
+        # print("colisao")
     screen.fill(BLACK)
 
     # desenha a bola
