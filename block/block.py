@@ -15,8 +15,9 @@ screen.fill(BLACK)
 # colmeia
 x = 52
 y = 25
+colmeia = []
 for i in range(1,65):
-    pygame.draw.rect(screen,BLUE,[x,y,30,15])
+    colmeia.append(pygame.Rect(x,y,30,15))
     x += 32
     if i % 16 == 0:
         y += 17  
@@ -46,5 +47,8 @@ while True:
     pygame.draw.ellipse(screen,RED,bola)
     # desenha o player
     pygame.draw.rect(screen,WHITE,player)
+    #desenha a colmeia
+    for bloco in colmeia:
+        pygame.draw.rect(screen, BLUE, bloco)
 
     pygame.display.flip()
