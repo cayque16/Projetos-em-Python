@@ -2,10 +2,20 @@
 import pygame,time
 from pygame.locals import *
 
+# cores
 BLUE = (0,0,255)
 BLACK = (0,0,0)
 WHITE = (255,255,255)
 RED = (255,0,0)
+# movimentos do player
+DIREITA = 1
+ESQUERDA = 2
+# dimensoes do player
+PL_POS_X = 0 # posicicao inicial do player no eixo X
+PL_POS_Y = 440 # posicao inicial do player no eixo y
+PL_WIDTH = 80 # largura do player
+PL_HEIGTH = 15 # altura do player
+PL_MOVIMENTO = 100 # tamanho do movimento do player
 
 pygame.init()
 width, heigth = 640, 480
@@ -23,23 +33,44 @@ for i in range(1,65):
         y += 17  
         x = 52
 # player        
-player = pygame.Rect(0,440,80,15)
+player = pygame.Rect(PL_POS_X,PL_POS_Y,PL_WIDTH,PL_HEIGTH)
 # bola
 bola = pygame.Rect(width//2,heigth//2,20,20)
-velocidade = [0.1,0.1]
+velocidade = [0.3,0.3]
 clock = pygame.time.Clock()
+direcao = 0
 while True:
     dt = clock.tick(30)
     event = pygame.event.poll()
 
     if event.type == pygame.QUIT:
         break
+    if event.type == KEYDOWN:
+        if event.key == K_RIGHT:
+            direcao = DIREITA
+        if event.key == K_LEFT:
+            direcao = ESQUERDA
 
+    # calcula a velocidade da bola
     bola.move_ip(velocidade[0]*dt,velocidade[1]*dt)
+    # corrige a direcao da bola em caso de colisao com as paredes
     if bola.left < 0 or bola.right > width:
         velocidade[0] = -velocidade[0]
     if bola.top < 0 or bola.bottom > heigth:
         velocidade[1] = -velocidade[1]
+    # testa o movimento do player
+    if direcao == DIREITA:
+        if (player.right + PL_MOVIMENTO) <= width:
+            player.right += PL_MOVIMENTO
+        else:
+            player.right = width
+        direcao = 0
+    elif direcao == ESQUERDA:
+        if (player.right - PL_MOVIMENTO) >= PL_WIDTH:
+            player.right -= PL_MOVIMENTO
+        else:
+            player.right = PL_WIDTH
+        direcao = 0
 
     screen.fill(BLACK)
 
