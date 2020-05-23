@@ -16,7 +16,7 @@ for i in range(1,21):
   dataInicial += timedelta(days=1)
   porcent += 5
 
-livro = "livros/" + livro.replace(" ","_")
+livro = "/var/www/Projetos-em-Python/datas de leitura/livros/" + livro.replace(" ","_")
 arquivo = open(livro+'.txt','w')
 arquivo.write(result)
 arquivo.close()
