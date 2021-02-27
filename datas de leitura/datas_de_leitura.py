@@ -2,7 +2,12 @@
 from datetime import date,timedelta
 
 livro = input("Informe o nome do livro: ")
-tipo = int(input("Percentual(1) ou paginas(2)? "))
+tipo = int(input('''Informe a forma de marcação:
+  
+  {1}--Percentual
+  {2}--Páginas
+
+'''))
 if (tipo == 2):
   paginas = int(input("Informe o numero de paginas: "))
 
