@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="diagrama.svg"
+   inkscape:export-filename="diagrama.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:rotation="90"
+     inkscape:cx="398.10112"
+     inkscape:cy="661.14484"
+     inkscape:window-width="1600"
+     inkscape:window-height="869"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="77.734337"
+       y="1023.2479"
+       width="34.125274"
+       height="249.83371"
+       id="rect1965" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none"
+       x="26.082474"
+       y="270.76999"
+       id="text1961"><tspan
+         sodipodi:role="line"
+         id="tspan1959"
+         style="stroke-width:0.565" /></text>
+    <g
+       id="g1138"
+       inkscape:export-filename="./diagrama.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#4d4d4d;stroke:none;stroke-width:0.690858;stroke-linecap:round;stroke-dasharray:none"
+         id="rect5371"
+         width="180.10413"
+         height="244.56506"
+         x="14.601595"
+         y="23.808641" />
+      <rect
+         style="fill:#b3b3b3;stroke-width:0.277601"
+         id="rect111"
+         width="83.60183"
+         height="115.08861"
+         x="19.330521"
+         y="147.69749" />
+      <rect
+         style="fill:#b3b3b3;stroke-width:0.277601"
+         id="rect219"
+         width="83.60183"
+         height="115.08861"
+         x="19.826572"
+         y="30.261984" />
+      <rect
+         style="fill:#b3b3b3;stroke-width:0.274582"
+         id="rect327"
+         width="84.228027"
+         height="233.43123"
+         x="105.74876"
+         y="29.375563" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34362px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#0000ff;stroke:#000000;stroke-width:0.534888;stroke-dasharray:none"
+         x="-272.82629"
+         y="25.226677"
+         id="text2021"
+         transform="matrix(0,-0.94601098,1.0570702,0,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan2019"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34362px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';stroke-width:0.534889"
+           x="-272.82629"
+           y="25.226677">rede: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34362px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';stroke-width:0.534889"
+   id="tspan2023">web</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34362px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#0000ff;stroke:#000000;stroke-width:0.534888;stroke-dasharray:none"
+         x="-148.47768"
+         y="25.226677"
+         id="text2029"
+         transform="matrix(0,-0.94601098,1.0570702,0,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan2027"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34362px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';stroke-width:0.534889"
+           x="-148.47768"
+           y="25.226677">rede: db</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34362px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';stroke-width:0.534889"
+           x="-148.47768"
+           y="31.921595"
+           id="tspan2031" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34362px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#0000ff;stroke:#000000;stroke-width:0.534888;stroke-dasharray:none"
+         x="-272.82629"
+         y="107.71246"
+         id="text2037"
+         transform="matrix(0,-0.94601098,1.0570702,0,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan2035"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34362px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';stroke-width:0.534889"
+           x="-272.82629"
+           y="107.71246">rede: fila<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34362px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';stroke-width:0.534889"
+   id="tspan2033" /></tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.34362px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';stroke-width:0.534889"
+           x="-272.82629"
+           y="114.40739"
+           id="tspan2039" /></text>
+      <g
+         id="g4796"
+         transform="matrix(1.0007349,0,0,0.89559434,3.9506053,27.219983)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.562431;stroke-dasharray:none"
+           id="rect329"
+           width="25.437569"
+           height="67.437569"
+           x="36.051056"
+           y="162.33241" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#0000ff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none"
+           x="-208.0269"
+           y="43.075752"
+           id="text2045"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan2043"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';stroke-width:0.565"
+             x="-208.0269"
+             y="43.075752">frontend</tspan></text>
+        <g
+           id="g2919">
+          <rect
+             style="fill:#ff0000;stroke:#000000;stroke-width:0.386425;stroke-dasharray:none"
+             id="rect1786"
+             width="13.637292"
+             height="59.380177"
+             x="45.50703"
+             y="166.86171" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#ffffff;stroke:#ffffff;stroke-width:0.564999;stroke-dasharray:none"
+             x="-211.63992"
+             y="53.882858"
+             id="text2207"
+             transform="rotate(-90)"><tspan
+               sodipodi:role="line"
+               id="tspan2205"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#ffffff;stroke:#ffffff;stroke-width:0.565"
+               x="-211.63992"
+               y="53.882858">nginx:1.13</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4805"
+         transform="matrix(1.0007349,0,0,0.89559434,2.0773612,7.5854117)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.565;stroke-dasharray:none"
+           id="rect1792"
+           width="25.458132"
+           height="68.000023"
+           x="36.669487"
+           y="50.96397" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#0000ff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none"
+           x="-89.27581"
+           y="44.082489"
+           id="text2049"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan2047"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';stroke-width:0.565"
+             x="-89.27581"
+             y="44.082489">db</tspan></text>
+        <g
+           id="g2911">
+          <rect
+             style="fill:#008080;stroke:#000000;stroke-width:0.388208;stroke-dasharray:none"
+             id="rect1794"
+             width="13.649572"
+             height="59.875408"
+             x="46.133987"
+             y="55.001881" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#ffffff;stroke:#ffffff;stroke-width:0.564999;stroke-dasharray:none"
+             x="-98.859138"
+             y="54.515957"
+             id="text2516"
+             transform="rotate(-90)"><tspan
+               sodipodi:role="line"
+               id="tspan2514"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#ffffff;stroke:#ffffff;stroke-width:0.565"
+               x="-98.859138"
+               y="54.515957">mysql:5.7</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4814"
+         inkscape:connector-avoid="true"
+         transform="matrix(1.0007349,0,0,0.89559434,2.0773612,13.539865)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.565;stroke-dasharray:none"
+           id="rect1800"
+           width="25.458132"
+           height="68.000023"
+           x="94.145943"
+           y="114.31967" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#0000ff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none"
+           x="-154.91583"
+           y="101.06026"
+           id="text2053"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan2051"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';stroke-width:0.565"
+             x="-154.91583"
+             y="101.06026">app</tspan></text>
+        <g
+           id="g2903">
+          <rect
+             style="fill:#008000;stroke:#000000;stroke-width:0.388208;stroke-dasharray:none"
+             id="rect1802"
+             width="13.649572"
+             height="59.875408"
+             x="103.61044"
+             y="118.35759" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#ffffff;stroke:#ffffff;stroke-width:0.564999;stroke-dasharray:none"
+             x="-163.68521"
+             y="111.99241"
+             id="text2528"
+             transform="rotate(-90)"><tspan
+               sodipodi:role="line"
+               id="tspan2526"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#ffffff;stroke:#ffffff;stroke-width:0.565"
+               x="-163.68521"
+               y="111.99241">python:3.6</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g4939"
+         transform="matrix(1.0532001,0,0,1.0532001,1.1728347,-30.325868)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.457172;stroke-dasharray:none"
+           id="rect1806"
+           width="24.243525"
+           height="46.75219"
+           x="148.99573"
+           y="60.801098" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.0737px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#0000ff;stroke:#000000;stroke-width:0.507869;stroke-dasharray:none"
+           x="-97.588394"
+           y="146.8522"
+           id="text2069"
+           transform="matrix(0,-0.94601094,1.0570702,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan2067"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.0737px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';stroke-width:0.50787"
+             x="-97.588394"
+             y="146.8522">queue</tspan></text>
+        <rect
+           style="fill:#d45500;stroke:#000000;stroke-width:0.31412;stroke-dasharray:none"
+           id="rect1808"
+           width="12.998352"
+           height="41.166256"
+           x="158.00868"
+           y="63.941109" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.0737px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#ffffff;stroke:#ffffff;stroke-width:0.507869;stroke-dasharray:none"
+           x="-100.39848"
+           y="157.51773"
+           id="text2697"
+           transform="matrix(0,-0.94601094,1.0570702,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan2695"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.0737px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#ffffff;stroke:#ffffff;stroke-width:0.50787"
+             x="-100.39848"
+             y="157.51773">redis:3.2</tspan></text>
+      </g>
+      <g
+         id="g3069"
+         transform="matrix(1.0007349,0,0,0.89559434,-5.8762285,18.223574)"
+         inkscape:connector-avoid="true">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.470559;stroke-dasharray:none"
+           id="rect2135"
+           width="24.939564"
+           height="48.14806"
+           x="129.84702"
+           y="117.83943" />
+        <rect
+           style="fill:#0000ff;stroke:#000000;stroke-width:0.323318;stroke-dasharray:none"
+           id="rect2137"
+           width="13.371538"
+           height="42.395351"
+           x="139.11873"
+           y="121.0732" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#0000ff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none"
+           x="-155.04817"
+           y="136.28575"
+           id="text2143"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan2141"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';stroke-width:0.565"
+             x="-155.04817"
+             y="136.28575">worker_3</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#ffffff;stroke:#ffffff;stroke-width:0.564999;stroke-dasharray:none"
+           x="-155.73706"
+           y="147.16704"
+           id="text2701"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan2699"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#ffffff;stroke:#ffffff;stroke-width:0.565"
+             x="-155.73706"
+             y="147.16704">python:3.6</tspan></text>
+      </g>
+      <g
+         id="g3184"
+         inkscape:connector-avoid="true"
+         transform="matrix(1.0007349,0,0,0.89559434,24.642158,14.316282)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.470559;stroke-dasharray:none"
+           id="rect3071"
+           width="24.939564"
+           height="48.14806"
+           x="129.23528"
+           y="226.96986" />
+        <rect
+           style="fill:#0000ff;stroke:#000000;stroke-width:0.323318;stroke-dasharray:none"
+           id="rect3073"
+           width="13.371538"
+           height="42.395351"
+           x="138.50699"
+           y="230.20363" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#0000ff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none"
+           x="-264.17859"
+           y="135.67401"
+           id="text3077"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan3075"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';stroke-width:0.565"
+             x="-264.17859"
+             y="135.67401">worker_1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#ffffff;stroke:#ffffff;stroke-width:0.564999;stroke-dasharray:none"
+           x="-264.86749"
+           y="146.5553"
+           id="text3081"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan3079"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#ffffff;stroke:#ffffff;stroke-width:0.565"
+             x="-264.86749"
+             y="146.5553">python:3.6</tspan></text>
+      </g>
+      <g
+         id="g3192"
+         inkscape:connector-avoid="true"
+         transform="matrix(1.0007349,0,0,0.89559434,5.7364075,15.793725)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.470559;stroke-dasharray:none"
+           id="rect3085"
+           width="24.939564"
+           height="48.14806"
+           x="129.23528"
+           y="173.85768" />
+        <rect
+           style="fill:#0000ff;stroke:#000000;stroke-width:0.323318;stroke-dasharray:none"
+           id="rect3087"
+           width="13.371538"
+           height="42.395351"
+           x="138.50699"
+           y="177.09145" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#0000ff;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none"
+           x="-211.06642"
+           y="135.67401"
+           id="text3091"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan3089"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';stroke-width:0.565"
+             x="-211.06642"
+             y="135.67401">worker_2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#ffffff;stroke:#ffffff;stroke-width:0.564999;stroke-dasharray:none"
+           x="-211.75531"
+           y="146.5553"
+           id="text3095"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan3093"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Droid Sans Fallback';-inkscape-font-specification:'Droid Sans Fallback';fill:#ffffff;stroke:#ffffff;stroke-width:0.565"
+             x="-211.75531"
+             y="146.5553">python:3.6</tspan></text>
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:0.534888;stroke-dasharray:none"
+         d="M 90.524543,168.05672 65.018427,182.11813"
+         id="path3424" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 65.484418,190.03946 96.292492,159.14732"
+         id="path4825"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g4796"
+         inkscape:connection-end="#g4814" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 96.292492,132.48924 64.250638,97.56357"
+         id="path4827"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g4814"
+         inkscape:connection-end="#g4805" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 145.05049,123.7599 16.0992,-40.810632"
+         id="path4829"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g3069" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 151.27683,171.49968 166.60117,82.949268"
+         id="path4833"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g3192" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 166.97724,217.58921 170.26129,82.949268"
+         id="path4835"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g3184" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 121.76933,125.43675 1.50313,-2.4706 34.82269,-47.296733"
+         id="path5087"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g4814"
+         inkscape:connection-end="#g4939" />
+    </g>
+  </g>
+</svg>
