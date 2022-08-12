@@ -3,10 +3,8 @@ from datetime import date,timedelta
 
 livro = input("Informe o nome do livro: ")
 tipo = int(input('''Informe a forma de marcação:
-  
-  {1}--Percentual
-  {2}--Páginas
-
+  1 - Percentual
+  2 - Páginas
 '''))
 if (tipo == 2):
   paginas = int(input("Informe o numero de paginas: "))
@@ -33,7 +31,7 @@ for i in range(1,21):
     total = porcent
   else:
     total += porcent
-  valor = "0"+str(total) if total < 10 else total
+  valor = str(total).zfill(2)
   porcent = temp
   result += "{}: {}{}".format(dataInicial.strftime('%d/%m/%Y'),valor,simbolo)
   if(i%4==0):
