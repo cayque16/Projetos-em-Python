@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 from datetime import date,timedelta
+from genericpath import isdir
+import os.path
 
 livro = input("Informe o nome do livro: ")
 tipo = int(input('''Informe a forma de marcação:
@@ -10,7 +12,11 @@ if (tipo == 2):
   paginas = int(input("Informe o numero de paginas: "))
 
 dia,mes,ano = map(int,input("Informe a data de inicio da leitura: ").split("/"))
-dataInicial = date(ano,mes,dia)
+
+if ano < 2000:
+  ano = '20'+str(ano)
+dataInicial = date(int(ano),mes,dia)
+
 resto = 0
 if (tipo != 2):
   porcent = 5
@@ -42,7 +48,10 @@ for i in range(1,21):
   if(tipo != 2):
     porcent += 5
 
-livro = "livros/" + livro.replace(" ","_")
+if not os.path.isdir("livros/"+ano):
+  os.mkdir("livros/"+ano)
+
+livro = "livros/"+ano+"/"+ livro.replace(" ","_")
 arquivo = open(livro+'.txt','w')
 arquivo.write(result)
 arquivo.close()
