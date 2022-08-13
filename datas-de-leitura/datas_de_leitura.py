@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 from datetime import date,timedelta
-from genericpath import isdir
 import os.path
 
 livro = input("Informe o nome do livro: ")
@@ -48,10 +47,17 @@ for i in range(1,21):
   if(tipo != 2):
     porcent += 5
 
-if not os.path.isdir("livros/"+ano):
-  os.mkdir("livros/"+ano)
+pasta = "livros/"+str(ano)
+indice = 1
+print(pasta)
+if os.path.isdir(pasta):
+  for arquivo in os.listdir(pasta):
+    if os.path.isfile(os.path.join(pasta, arquivo)):
+      indice += 1
+else:
+  os.mkdir(pasta)
 
-livro = "livros/"+ano+"/"+ livro.replace(" ","_")
+livro = pasta+"/"+str(indice).zfill(2)+'_'+livro.replace(" ","_")
 arquivo = open(livro+'.txt','w')
 arquivo.write(result)
 arquivo.close()
