@@ -3,102 +3,102 @@
     {
       "year": 2020,
       "books": [
-        { "title": "Outsider", "startDate": "2020-04-22", "totalPages": 0 },
+        { "title": "Outsider", "startDate": "2020-04-22", "totalPage": 0 },
         {
           "title": "Rangers 3 Terra do Gelo",
           "startDate": "2020-05-09",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Guerra Mundial Z",
           "startDate": "2020-05-23",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Entrevista com a pedra e outros contos",
           "startDate": "2020-06-06",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Rangers 4 Folha de Carvalho",
           "startDate": "2020-06-08",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Sob a Redoma",
           "startDate": "2020-06-14",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Rangers 5 Feiticeiro do Norte",
           "startDate": "2020-07-02",
-          "totalPages": 0
+          "totalPage": 0
         },
-        { "title": "A Casa", "startDate": "2020-07-15", "totalPages": 0 },
+        { "title": "A Casa", "startDate": "2020-07-15", "totalPage": 0 },
         {
           "title": "Manual do pequeno investidor em acoes",
           "startDate": "2020-07-24",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "O Investidor Inteligente",
           "startDate": "2020-08-12",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Objetos Cortantes",
           "startDate": "2020-09-10",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Os Axiomas de Zurique",
           "startDate": "2020-09-23",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Volta de Sherlock Holmes",
           "startDate": "2020-10-01",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Dexter A Mao Esquerda de Deus",
           "startDate": "2020-10-19",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Ate o Fim Da Queda",
           "startDate": "2020-10-31",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "As Primeiras Quinze Vidas de Harry August",
           "startDate": "2020-11-06",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Materia Escura",
           "startDate": "2020-11-17",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Um Estrano Numa Terra Estranha",
           "startDate": "2020-11-21",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Domine Sua Mente",
           "startDate": "2020-12-10",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Feliz Ano Velho",
           "startDate": "2020-12-14",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "O Ovo de Cristal",
           "startDate": "2020-12-29",
-          "totalPages": 0
+          "totalPage": 0
         }
       ]
     },
@@ -108,93 +108,93 @@
         {
           "title": "O Menino Que Desenhava Monstros",
           "startDate": "2020-12-29",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Sapiens Uma Breve Historia da Humanidade",
           "startDate": "2021-01-05",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Menina Que Roubava Livros",
           "startDate": "2021-01-23",
           "by_pages": true,
-          "totalPages": 480
+          "totalPage": 480
         },
-        { "title": "Contato", "startDate": "2021-02-22", "totalPages": 0 },
+        { "title": "Contato", "startDate": "2021-02-22", "totalPage": 0 },
         {
           "title": "Viagem ao Centro da Terra",
           "startDate": "2021-03-13",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Encontro com Rama",
           "startDate": "2021-03-27",
-          "totalPages": 0
+          "totalPage": 0
         },
-        { "title": "Recursao", "startDate": "2021-04-10", "totalPages": 0 },
+        { "title": "Recursao", "startDate": "2021-04-10", "totalPage": 0 },
         {
           "title": "O Livro dos Baltimore",
           "startDate": "2021-04-20",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Assassinato no Expresso do Oriente",
           "startDate": "2021-04-30",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Verdade Sobre O Caso Harry Quebert",
           "startDate": "2021-05-09",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Trilogia da Fundacao",
           "startDate": "2021-05-25",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Bom Dia Veronica",
           "startDate": "2021-06-15",
-          "totalPages": 0
+          "totalPage": 0
         },
-        { "title": "Pines", "startDate": "2021-06-24", "totalPages": 0 },
+        { "title": "Pines", "startDate": "2021-06-24", "totalPage": 0 },
         {
           "title": "O Corretor",
           "startDate": "2021-07-13",
           "by_pages": true,
-          "totalPages": 356
+          "totalPage": 356
         },
         {
           "title": "A Mulher Na Janela",
           "startDate": "2021-07-29",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Caixa De Passaros",
           "startDate": "2021-08-12",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Faca Fortuna Com Acoes",
           "startDate": "2021-08-31",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "O Enigma Do Quarto 622",
           "startDate": "2021-09-20",
-          "totalPages": 0
+          "totalPage": 0
         },
-        { "title": "Homo Deus", "startDate": "2021-10-08", "totalPages": 0 },
+        { "title": "Homo Deus", "startDate": "2021-10-08", "totalPage": 0 },
         {
           "title": "O Pequeno Principe",
           "startDate": "2021-10-26",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "O Desaparecimento de Stephanie Mailer",
           "startDate": "2021-11-01",
-          "totalPages": 0
+          "totalPage": 0
         }
       ]
     },
@@ -204,99 +204,99 @@
         {
           "title": "A Danca da Morte",
           "startDate": "2021-11-21",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Garota do Calendario Janeiro",
           "startDate": "2022-02-14",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Garota do Calendario Fevereiro",
           "startDate": "2022-03-03",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Uma Noite Apenas",
           "startDate": "2022-03-27",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Eu Nao Tava La",
           "startDate": "2022-05-02",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Garota do Calendario Marco",
           "startDate": "2022-05-21",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Mindhunter",
           "startDate": "2022-05-25",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Garota do Calendario Abril",
           "startDate": "2022-06-22",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "E Se Fosse Diferente",
           "startDate": "2022-06-26",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Garota do Calendario Maio",
           "startDate": "2022-07-02",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Territorio Lovecraft",
           "startDate": "2022-07-12",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Garota do Calendario Junho",
           "startDate": "2022-08-07",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Depois Da Caixa Preta",
           "startDate": "2022-08-22",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Clube dos Orgasmos",
           "startDate": "2022-08-27",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Garota do Calendario Julho",
           "startDate": "2022-09-01",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Fogo e Sangue",
           "startDate": "2022-09-11",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Garota do Calendario Agosto",
           "startDate": "2022-10-19",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Paciente Silenciosa",
           "startDate": "2022-10-31",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Garota do Calendario Setembro",
           "startDate": "2022-12-01",
-          "totalPages": 0
+          "totalPage": 0
         },
-        { "title": "As Musas", "startDate": "2022-12-24", "totalPages": 0 }
+        { "title": "As Musas", "startDate": "2022-12-24", "totalPage": 0 }
       ]
     },
     {
@@ -305,98 +305,98 @@
         {
           "title": "A Lenda de Ruff Ghanor Vol 1",
           "startDate": "2023-01-13",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Abrace Seu Filho",
           "startDate": "2023-01-30",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Os Dois Morrem No Final",
           "startDate": "2023-02-05",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Gatora do Calendario Outubro",
           "startDate": "2023-02-20",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Biblioteca da Meia Noite",
           "startDate": "2023-03-30",
-          "totalPages": 0
+          "totalPage": 0
         },
-        { "title": "Eu Robo", "startDate": "2023-04-14", "totalPages": 0 },
+        { "title": "Eu Robo", "startDate": "2023-04-14", "totalPage": 0 },
         {
           "title": "O Problema dos Tres Corpos",
           "startDate": "2023-04-26",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Enterre Seus Mortos",
           "startDate": "2023-05-18",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Dois Mortos e a Morte",
           "startDate": "2023-05-21",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Garota do Calendario Novembro",
           "startDate": "2023-05-26",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Fazenda dos Animais",
           "startDate": "2023-05-29",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Floresta Sombria",
           "startDate": "2023-06-12",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Garota do Calendario Dezembro",
           "startDate": "2023-03-04",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "O Fim da Morte",
           "startDate": "2023-07-14",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Eu Sei o Que Voces Fizeram no Verao Passado",
           "startDate": "2023-08-14",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Garota no Trem",
           "startDate": "2023-09-16",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Maquina do Tempo",
           "startDate": "2023-10-24",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "O Homem Invisivel",
           "startDate": "2023-10-25",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Nao Olhe Para Tras",
           "startDate": "2023-12-06",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Mulher Silenciosa",
           "startDate": "2023-12-25",
-          "totalPages": 0
+          "totalPage": 0
         }
       ]
     },
@@ -406,59 +406,59 @@
         {
           "title": "Ensaio Sobre a Cegueira",
           "startDate": "2024-02-06",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Uma Familia Feliz",
           "startDate": "2024-04-25",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "De Mal a Pior",
           "startDate": "2024-05-09",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "O Ultimo Homem",
           "startDate": "2024-05-24",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Um Cego de Olho no Futuro",
           "startDate": "2024-08-08",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Os Segredos de Samantha",
           "startDate": "2024-08-28",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Uma Casa no Fundo de Um Lago",
           "startDate": "2024-09-23",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Fahrenheit 451",
           "startDate": "2024-10-09",
-          "totalPages": 0
+          "totalPage": 0
         },
-        { "title": "O Anjo", "startDate": "2024-10-14", "totalPages": 0 },
-        { "title": "Upgrade", "startDate": "2024-10-27", "totalPages": 0 },
+        { "title": "O Anjo", "startDate": "2024-10-14", "totalPage": 0 },
+        { "title": "Upgrade", "startDate": "2024-10-27", "totalPage": 0 },
         {
           "title": "O Culto Amarelo",
           "startDate": "2024-11-09",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Devoradores de Estrelas",
           "startDate": "2024-11-18",
-          "totalPages": 0
+          "totalPage": 0
         },
-        { "title": "Febre", "startDate": "2024-12-03", "totalPages": 0 },
-        { "title": "Exodia", "startDate": "2024-12-04", "totalPages": 0 },
-        { "title": "Forward", "startDate": "2024-12-06", "totalPages": 0 },
-        { "title": "Maus", "startDate": "2024-12-19", "totalPages": 0 }
+        { "title": "Febre", "startDate": "2024-12-03", "totalPage": 0 },
+        { "title": "Exodia", "startDate": "2024-12-04", "totalPage": 0 },
+        { "title": "Forward", "startDate": "2024-12-06", "totalPage": 0 },
+        { "title": "Maus", "startDate": "2024-12-19", "totalPage": 0 }
       ]
     },
     {
@@ -467,54 +467,54 @@
         {
           "title": "O Amanha Nao Esta a Venda",
           "startDate": "2025-01-01",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Ratos Malditos",
           "startDate": "2025-01-04",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Em Um Porao Escuro",
           "startDate": "2025-01-17",
-          "totalPages": 0
+          "totalPage": 0
         },
-        { "title": "Fim", "startDate": "2025-03-02", "totalPages": 0 },
+        { "title": "Fim", "startDate": "2025-03-02", "totalPage": 0 },
         {
           "title": "Ainda Estou Aqui",
           "startDate": "2025-03-19",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "As Intermitencias da Morte",
           "startDate": "2025-04-16",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "A Empregada",
           "startDate": "2025-06-07",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "Necromante",
           "startDate": "2025-06-18",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "O Segredo da Empregada",
           "startDate": "2025-06-27",
-          "totalPages": 0
+          "totalPage": 0
         },
         {
           "title": "O Rio Que Passou Em Minha Vida",
           "startDate": "2025-07-10",
-          "totalPages": 0
+          "totalPage": 0
         },
-        { "title": "Fraternal", "startDate": "2025-07-18", "totalPages": 0 },
+        { "title": "Fraternal", "startDate": "2025-07-18", "totalPage": 0 },
         {
           "title": "A Empregada esta de olho",
           "startDate": "2025-08-07",
-          "totalPages": 0
+          "totalPage": 0
         }
       ]
     }
