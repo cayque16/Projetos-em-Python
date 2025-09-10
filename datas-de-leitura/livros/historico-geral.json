@@ -3,7 +3,11 @@
     {
       "year": 2020,
       "books": [
-        { "title": "Outsider", "startDate": "2020-04-22", "totalPage": 0 },
+        {
+          "title": "Outsider",
+          "startDate": "2020-04-22",
+          "totalPage": 0
+        },
         {
           "title": "Rangers 3 Terra do Gelo",
           "startDate": "2020-05-09",
@@ -34,7 +38,11 @@
           "startDate": "2020-07-02",
           "totalPage": 0
         },
-        { "title": "A Casa", "startDate": "2020-07-15", "totalPage": 0 },
+        {
+          "title": "A Casa",
+          "startDate": "2020-07-15",
+          "totalPage": 0
+        },
         {
           "title": "Manual do pequeno investidor em acoes",
           "startDate": "2020-07-24",
@@ -121,7 +129,11 @@
           "by_pages": true,
           "totalPage": 480
         },
-        { "title": "Contato", "startDate": "2021-02-22", "totalPage": 0 },
+        {
+          "title": "Contato",
+          "startDate": "2021-02-22",
+          "totalPage": 0
+        },
         {
           "title": "Viagem ao Centro da Terra",
           "startDate": "2021-03-13",
@@ -132,7 +144,11 @@
           "startDate": "2021-03-27",
           "totalPage": 0
         },
-        { "title": "Recursao", "startDate": "2021-04-10", "totalPage": 0 },
+        {
+          "title": "Recursao",
+          "startDate": "2021-04-10",
+          "totalPage": 0
+        },
         {
           "title": "O Livro dos Baltimore",
           "startDate": "2021-04-20",
@@ -158,7 +174,11 @@
           "startDate": "2021-06-15",
           "totalPage": 0
         },
-        { "title": "Pines", "startDate": "2021-06-24", "totalPage": 0 },
+        {
+          "title": "Pines",
+          "startDate": "2021-06-24",
+          "totalPage": 0
+        },
         {
           "title": "O Corretor",
           "startDate": "2021-07-13",
@@ -185,7 +205,11 @@
           "startDate": "2021-09-20",
           "totalPage": 0
         },
-        { "title": "Homo Deus", "startDate": "2021-10-08", "totalPage": 0 },
+        {
+          "title": "Homo Deus",
+          "startDate": "2021-10-08",
+          "totalPage": 0
+        },
         {
           "title": "O Pequeno Principe",
           "startDate": "2021-10-26",
@@ -296,7 +320,11 @@
           "startDate": "2022-12-01",
           "totalPage": 0
         },
-        { "title": "As Musas", "startDate": "2022-12-24", "totalPage": 0 }
+        {
+          "title": "As Musas",
+          "startDate": "2022-12-24",
+          "totalPage": 0
+        }
       ]
     },
     {
@@ -327,7 +355,11 @@
           "startDate": "2023-03-30",
           "totalPage": 0
         },
-        { "title": "Eu Robo", "startDate": "2023-04-14", "totalPage": 0 },
+        {
+          "title": "Eu Robo",
+          "startDate": "2023-04-14",
+          "totalPage": 0
+        },
         {
           "title": "O Problema dos Tres Corpos",
           "startDate": "2023-04-26",
@@ -443,8 +475,16 @@
           "startDate": "2024-10-09",
           "totalPage": 0
         },
-        { "title": "O Anjo", "startDate": "2024-10-14", "totalPage": 0 },
-        { "title": "Upgrade", "startDate": "2024-10-27", "totalPage": 0 },
+        {
+          "title": "O Anjo",
+          "startDate": "2024-10-14",
+          "totalPage": 0
+        },
+        {
+          "title": "Upgrade",
+          "startDate": "2024-10-27",
+          "totalPage": 0
+        },
         {
           "title": "O Culto Amarelo",
           "startDate": "2024-11-09",
@@ -455,10 +495,26 @@
           "startDate": "2024-11-18",
           "totalPage": 0
         },
-        { "title": "Febre", "startDate": "2024-12-03", "totalPage": 0 },
-        { "title": "Exodia", "startDate": "2024-12-04", "totalPage": 0 },
-        { "title": "Forward", "startDate": "2024-12-06", "totalPage": 0 },
-        { "title": "Maus", "startDate": "2024-12-19", "totalPage": 0 }
+        {
+          "title": "Febre",
+          "startDate": "2024-12-03",
+          "totalPage": 0
+        },
+        {
+          "title": "Exodia",
+          "startDate": "2024-12-04",
+          "totalPage": 0
+        },
+        {
+          "title": "Forward",
+          "startDate": "2024-12-06",
+          "totalPage": 0
+        },
+        {
+          "title": "Maus",
+          "startDate": "2024-12-19",
+          "totalPage": 0
+        }
       ]
     },
     {
@@ -479,7 +535,11 @@
           "startDate": "2025-01-17",
           "totalPage": 0
         },
-        { "title": "Fim", "startDate": "2025-03-02", "totalPage": 0 },
+        {
+          "title": "Fim",
+          "startDate": "2025-03-02",
+          "totalPage": 0
+        },
         {
           "title": "Ainda Estou Aqui",
           "startDate": "2025-03-19",
@@ -510,7 +570,11 @@
           "startDate": "2025-07-10",
           "totalPage": 0
         },
-        { "title": "Fraternal", "startDate": "2025-07-18", "totalPage": 0 },
+        {
+          "title": "Fraternal",
+          "startDate": "2025-07-18",
+          "totalPage": 0
+        },
         {
           "title": "A Empregada esta de olho",
           "startDate": "2025-08-07",
