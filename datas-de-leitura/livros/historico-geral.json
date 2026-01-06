@@ -616,6 +616,16 @@
           "totalPage": 0
         }
       ]
+    },
+    {
+      "year": 2026,
+      "books": [
+        {
+          "title": "Colecionador de Almas",
+          "startDate": "2026-01-6",
+          "totalPage": 0
+        }
+      ]
     }
   ]
 }
